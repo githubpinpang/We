@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="175.54999999999998" height="120.905" xml:space="preserve">
+<desc>Created with Fabric.js 1.6.0-rc.1</desc>
+<defs></defs>
+<g style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(10 10) scale(2.55 2.17)" >
+  <path d="M 30 30 c 0 8.008 -6.492 14.5 -14.5 14.5 S 1 38.008 1 30 s 6.492 -14.5 14.5 -14.5 c 2.983 0 5.757 0.901 8.062 2.446 c 0.796 0.533 1.536 1.143 2.21 1.82" style="stroke: #424A60; stroke-width: 2; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+  <path d="M 30 30 c 0 -8.008 6.492 -14.5 14.5 -14.5 S 59 21.992 59 30 s -6.492 14.5 -14.5 14.5 c -4.003 0 -7.627 -1.622 -10.251 -4.245" style="stroke: #424A60; stroke-width: 2; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+</g>
+  <g transform="translate(83.3 74.37)">
+   <text font-family="Diogenes" font-size="40" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #000000; fill-rule: nonzero; opacity: 1;" ><tspan x="-34.7" y="8.98" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #000000; fill-rule: ; opacity: 1;">w</tspan><tspan x="-7.3" y="8.98" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #000000; fill-rule: ; opacity: 1;"> </tspan><tspan x="4.7" y="8.98" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #000000; fill-rule: ; opacity: 1;"> </tspan><tspan x="16.7" y="8.98" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #000000; fill-rule: ; opacity: 1;">e</tspan></text>
+ </g>
+</svg>
